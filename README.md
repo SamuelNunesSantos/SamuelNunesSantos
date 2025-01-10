@@ -1,7 +1,4 @@
 ### Olá, eu sou o Samuel Nunes 👋
-
-.[![BADGE] {https://www.codewars.com/users/sksl23/badges/micro}](https://www.codewars.com/users/sksl23)
-
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelnunessantos)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelNunesSantos&show_icons=true&theme=dracula) 
